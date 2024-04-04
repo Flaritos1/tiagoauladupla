@@ -1,0 +1,11 @@
+git status
+
+git commit -a -m "colocar qualquer coisa"
+
+git push 
+
+(qm fez a alteração, comando para enviar)
+
+git pull 
+
+(para pegar arquivo atualizado e passar pra pasta no computador)
