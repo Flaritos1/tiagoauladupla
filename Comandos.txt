@@ -9,3 +9,8 @@ git push
 git pull 
 
 (para pegar arquivo atualizado e passar pra pasta no computador)
+
+
+git add . 
+
+(caso modificar o nome do arquivo, pq o git hub identifica como arquivo deletado)
